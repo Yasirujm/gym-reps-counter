@@ -3,10 +3,10 @@
 A wearable IoT-based system that counts exercise repetitions and collects fitness data like heart rate, motion patterns, and proximity using multiple sensors. Built on ESP32.
 
 ## Team Members
-- Ketimingama K.M.K.S.D (COHNDSE241F-008)
-- D.D.Y.J Madawala (COHNDSE241F-011)
-- N.V.S Alwis (COHNDSE241F-013)
-- Perera K.M.S.J (COHNDSE241F-056)
+- Ketimingama K.M.K.S.D
+- D.D.Y.J Madawala
+- N.V.S Alwis
+- Perera K.M.S.J
 
 ## Features
 - Accurate rep counting using sensor fusion
